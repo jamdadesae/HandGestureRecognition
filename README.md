@@ -1,1 +1,3 @@
 # HandGestureRecognition
+
+**PLEASE CHECK THE CONTENT IN MY-NEW-BRANCH**
